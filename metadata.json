@@ -1,0 +1,7 @@
+{
+  "name": "On Fert Analista IA",
+  "description": "Um assistente inteligente para análise de solo e recomendação de fertilizantes, com análise de fotos e uma IA de conversação em tempo real com a API Gemini Live.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
